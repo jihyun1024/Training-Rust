@@ -1,2 +1,3 @@
 # Training-Rust
-Seeing something a hundred times is not as good as typing the code once - Programming quote
+
+* Car_factory: Using struct, enum concepts, define traits and order three cars
